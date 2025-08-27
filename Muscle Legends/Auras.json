@@ -1,0 +1,250 @@
+ {
+  "Blue Crystal": [
+    {
+      "name": "Blue Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Green Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Purple Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Red Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Yellow Aura",
+      "rarity": "Basic"
+    }
+  ],
+  "Green Crystal": [
+    {
+      "name": "Electro",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Purple Nova",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Blue Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Green Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Purple Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Red Aura",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Yellow Aura",
+      "rarity": "Basic"
+    }
+  ],
+  "Frost Crystal": [
+    {
+      "name": "Electro",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Purple Nova",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Astral Electro",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Dark Electro",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Power Lightning",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Supernova",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Ultra Inferno",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Ultra Mirage",
+      "rarity": "Rare"
+    }
+  ],
+  "Mythical Crystal": [
+    {
+      "name": "Astral Electro",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Dark Electro",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Power Lightning",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Supernova",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Ultra Inferno",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Ultra Mirage",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Azure Tundra",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Enchanted Mirage",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Grand Supernova",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Lightning",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Unstable Mirage",
+      "rarity": "Epic"
+    }
+  ]
+  "Inferno Crystal": [
+    {
+      "name": "Azure Tundra",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Enchanted Mirage",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Grand Supernova",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Lightning",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Unstable Mirage",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Dark Lightning",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Dark Storm",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Entropic Blast",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Eternal Megastrike",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Inferno",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Muscle King",
+      "rarity": "Unique"
+    }
+  ],
+  "Legends Crystal": [
+    {
+      "name": "Azure Tundra",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Enchanted Mirage",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Grand Supernova",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Lightning",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Unstable Mirage",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Dark Lightning",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Dark Storm",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Entropic Blast",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Inferno",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Muscle King",
+      "rarity": "Unique"
+    }
+  ],
+  "Galaxy Oracle Crystal": [
+    {
+      "name": "Muscle King Aura",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Azure Tundra Aura",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Ultra Inferno Aura",
+      "rarity": "Rare"
+    }
+  ],
+  "Jungle Crystal": [
+    {
+      "name": "Entropic Blast Aura",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Grand Supernova Aura",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Eternal Megastrike Aura",
+      "rarity": "Unique"
+    }
+  ]
+}
