@@ -1,0 +1,168 @@
+ {
+  "Blue Crystal": [
+    {
+      "name": "Blue Birdie",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Orange Hedgehog",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Red Kitty",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Dark Vampy",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Blue Bunny",
+      "rarity": "Basic"
+    }
+  ],
+  "Green Crystal": [
+    {
+      "name": "Silver Dog",
+      "rarity": "Basic"
+    },
+    {
+      "name": "Dark Golem",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Green Butterfly",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Crimson Falcon",
+      "rarity": "Rare"
+    }
+  ],
+  "Frost Crystal": [
+    {
+      "name": "Yellow Butterfly",
+      "rarity": "Advanced"
+    },
+    {
+      "name": "Purple Dragon",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Blue Pheonix",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Orange Pegasus",
+      "rarity": "Rare"
+    }
+  ],
+  "Mythical Crystal": [
+    {
+      "name": "Purple Falcon",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Red Dragon",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Blue Firecaster",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Golden Pheonix",
+      "rarity": "Epic"
+    }
+  ],
+  "Inferno Crystal": [
+    {
+      "name": "Eternal Megastrike",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Red Firecaster",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Infernal Dragon",
+      "rarity": "Unique"
+    },
+    {
+      "name": "White Pegasus",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Golden Pheonix",
+      "rarity": "Epic"
+    }
+  ],
+  "Legends Crystal": [
+    {
+      "name": "Eternal Megastrike",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Ultra Birdie",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Magic Butterfly",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Green Firecaster",
+      "rarity": "Epic"
+    },
+    {
+      "name": "White Pheonix",
+      "rarity": "Epic"
+    }
+  ],
+  "Muscle Elite Crystal": [
+    {
+      "name": "Frostwave Legends Penguin",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Phantom Genesis Dragon",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Dark Legends Manticore",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Ultimate Supernova Pegasus",
+      "rarity": "Epic"
+    }
+  ],
+  "Galaxy Oracle Crystal": [
+    {
+      "name": "Eternal Strike Leviathan",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Lightning Strike Phantom",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Darkstar Hunter",
+      "rarity": "Unique"
+    }
+  ],
+  "Jungle Crystal": [[
+    {
+      "name": "Muscle Sensei",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Neon Guardian",
+      "rarity": "Unique"
+    },
+    {
+      "name": "Golden Viking",
+      "rarity": "Epic"
+    }
+  ]
+}
